@@ -37,8 +37,8 @@ To set up the project environment, follow these steps:
 
 1.  **Clone the repository:**
     ```
-    git clone 
-    cd 
+    git clone https://github.com/wilsonz347/PM_Accelerator_Code.git
+    cd PM_Accelerator_Code
     ```
 2.  **Create a virtual environment (recommended):**
     ```
